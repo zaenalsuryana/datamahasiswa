@@ -24,3 +24,6 @@ Aplikasi CRUD Data Mahasiswa menggunakan PHP dan MySQL.
 
 ### Halaman Login
 ![Halaman Login](assets/halaman%20login.png)
+
+### Halaman Dasboard
+![Halaman Login](assets/halaman%20dasboard.png)
