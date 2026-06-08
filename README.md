@@ -28,7 +28,7 @@ Aplikasi CRUD Data Mahasiswa menggunakan PHP dan MySQL.
 ![Halaman Login](assets/halaman%20login.png)
 
 ### Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dasboard.png)
 
 ### Kartu Rencana Studi (KRS)
 ![KRS](assets/krs.png)
