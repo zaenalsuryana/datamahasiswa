@@ -19,3 +19,8 @@ Aplikasi CRUD Data Mahasiswa menggunakan PHP dan MySQL.
 2. Import database ke MySQL
 3. Jalankan Apache dan MySQL di XAMPP
 4. Buka http://localhost/datamahasiswa
+
+## Screenshot
+
+### Halaman Login
+![Halaman Login](assets/halaman%20login.png)
