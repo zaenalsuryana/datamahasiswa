@@ -22,8 +22,19 @@ Aplikasi CRUD Data Mahasiswa menggunakan PHP dan MySQL.
 
 ## Screenshot
 
+## Screenshot
+
 ### Halaman Login
 ![Halaman Login](assets/halaman%20login.png)
 
-### Halaman Dasboard
-![Halaman dasboard](assets/halaman%20dasboard.png)
+### Dashboard
+![Dashboard](assets/dashboard.png)
+
+### Kartu Rencana Studi (KRS)
+![KRS](assets/krs.png)
+
+### Data Pengumuman
+![Pengumuman](assets/pengumuman.png)
+
+### Laporan Nilai Mahasiswa
+![Laporan Nilai Mahasiswa](assets/Laporan%20nilai%20mahasiswa.png)
